@@ -1,3 +1,3 @@
 # beachread
 Testing repository
-This is teh first markdown file.
+This is the first markdown file.
